@@ -3,7 +3,7 @@ import { SVG } from '@/components/Svg'
 export default function Home() {
   return (
     <main>
-      TEST!
+      TEST!test
       <SVG></SVG>
     </main>
   )
